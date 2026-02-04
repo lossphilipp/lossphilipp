@@ -32,8 +32,8 @@
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lossphilipp&show_icons=true&count_private=true&theme=nightowl"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossphilipp&layout=compact&theme=nightowl"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
 
 ###
