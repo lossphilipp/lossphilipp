@@ -13,7 +13,6 @@
 <div align="center">
   <p>
     📖 Computer Science Student @ <a href="https://www.fhv.at/">FH Vorarlberg</a><br>
-    💼 Software Quality Assurance<br>
     🖥️ Homelab owner<br>
     💡 <a href="https://www.home-assistant.io/">Home Automation</a> tinkerer
   </p>
